@@ -1,0 +1,42 @@
+ПРОЕКТ: index.html
+
+=== ИСХОДНИК (статический разбор) ===
+  ✅ viewport-fit=cover есть
+  ✅ safe-area-inset используется
+  ✅ путей от корня '/' нет (ок для подпапки)
+  ✅ длинных тире нет
+
+=== ЗДОРОВЬЕ И СКОРОСТЬ ===
+  ✅ статических граблей производительности не найдено
+  ✅ Первая отрисовка (FCP): 616мс (хорошо < 1800, плохо > 3000)
+  ✅ Полная загрузка: 1265мс (DOM готов на 595мс)
+  • Длинные задачи (фриз главного потока): 1 шт., самая долгая 64мс, суммарная блокировка ~14мс
+  ✅ JS загружено: 0 КБ, всего ресурсов 1 (1 КБ)
+     самые тяжёлые:
+       - 1 КБ  https://fonts.googleapis.com/css2
+  ✅ повторных запросов при загрузке нет
+  ✅ ошибок в консоли нет
+
+=== Desktop 1440 (1440x900) ===
+  ✅ горизонтальной прокрутки нет
+  ✅ ошибок в консоли нет
+  screen: /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/desktop-screen.png
+  full:   /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/desktop-full.png
+
+=== iPhone 375 (375x812) ===
+  ✅ горизонтальной прокрутки нет
+  ✅ ошибок в консоли нет
+  screen: /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/iphone375-screen.png
+  full:   /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/iphone375-full.png
+
+=== iPhone 390 (390x844) ===
+  ✅ горизонтальной прокрутки нет
+  ✅ ошибок в консоли нет
+  screen: /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/iphone390-screen.png
+  full:   /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/iphone390-full.png
+
+=== iPhone 430 (430x932) ===
+  ✅ горизонтальной прокрутки нет
+  ✅ ошибок в консоли нет
+  screen: /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/iphone430-screen.png
+  full:   /Users/q8111706yandex.ru/.business/sites/out/studiya-tishina-demo/_check/iphone430-full.png
